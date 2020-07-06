@@ -13,8 +13,8 @@ Weka 3.8 and 3.9 feature a package management system that makes it easy for the 
 This is the main development trunk of Weka and continues from the stable Weka 3.8 code line. It may receive new features that break backwards compatibility.
 
 ## Windows
-Click here to download a self-extracting executable for 64-bit Windows that includes Azul's 64-bit OpenJDK Java VM 11 (weka-3-9-4-azul-zulu-windows.exe; 117 MB)
+Click [here](https://sourceforge.net/projects/weka/postdownload) to download a self-extracting executable for 64-bit Windows that includes Azul's 64-bit OpenJDK Java VM 11 (weka-3-9-4-azul-zulu-windows.exe; 117 MB)
 This executable will install Weka in your Program Menu. Launching via the Program Menu or shortcuts will automatically use the included JVM to run Weka.
 
 ## Mac OS
-Click here to download a disk image for Mac OS that contains a Mac application including Azul's 64-bit OpenJDK Java VM 11 JVM (weka-3-9-4-azul-zulu-osx.dmg; 143 MB)
+Click [here](https://sourceforge.net/projects/weka/files/weka-3-9/3.9.4/weka-3-9-4-azul-zulu-osx.dmg/download?use_mirror=nchc) to download a disk image for Mac OS that contains a Mac application including Azul's 64-bit OpenJDK Java VM 11 JVM (weka-3-9-4-azul-zulu-osx.dmg; 143 MB)
