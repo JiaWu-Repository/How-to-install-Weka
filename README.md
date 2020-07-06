@@ -1,6 +1,6 @@
 # How-to-install-Weka
 Ref: https://waikato.github.io/weka-wiki/downloading_weka/  
-Ref:https://www.cs.waikato.ac.nz/ml/weka/courses.html
+Ref: https://www.cs.waikato.ac.nz/ml/weka/courses.html
 
 # What’s Weka?
 
