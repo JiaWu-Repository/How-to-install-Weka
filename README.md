@@ -1,5 +1,19 @@
 # How-to-install-Weka
-Ref: https://waikato.github.io/weka-wiki/downloading_weka/
+Ref: https://waikato.github.io/weka-wiki/downloading_weka/  
+Ref:https://www.cs.waikato.ac.nz/ml/weka/courses.html
+
+# What’s Weka?
+
+– A bird found only in New Zealand?
+
+# Machine learning algorithms for data mining tasks
+
+* 100+ algorithms for classification
+* 75 for data preprocessing
+* 25 to assist with feature selection
+* 20 for clustering, finding association rules, etc
+
+# Two versions of Weka
 
 There are two versions of Weka: Weka 3.8 is the latest stable version and Weka 3.9 is the development version. New releases of these two versions are normally made once or twice a year. For the bleeding edge, it is also possible to download nightly snapshots of these two versions.
 
@@ -21,3 +35,6 @@ Click [here](https://sourceforge.net/projects/weka/files/weka-3-9/3.9.4/weka-3-9
 
 #Old versions
 All old versions of Weka are available from the [Sourceforge website](https://sourceforge.net/projects/weka/).
+
+# What you will learn today?
+Load data into Weka and look at it.
