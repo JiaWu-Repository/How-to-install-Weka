@@ -4,7 +4,7 @@ Ref:https://www.cs.waikato.ac.nz/ml/weka/courses.html
 
 # What’s Weka?
 
-– A bird found only in New Zealand?
+A bird found only in New Zealand?
 
 # Machine learning algorithms for data mining tasks
 
